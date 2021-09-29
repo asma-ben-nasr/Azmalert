@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578173891689",
+    "project_id": "azma-2b990",
+    "storage_bucket": "azma-2b990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578173891689:android:b3342e6d24a64147bf1ef8",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.codelabs.cmodel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578173891689-ur214sb0amcfo4tt8tmg6pqs17o8tuta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64iCoe2Gt_mUnNORomBhtPEJPX1oCLg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578173891689-ur214sb0amcfo4tt8tmg6pqs17o8tuta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
